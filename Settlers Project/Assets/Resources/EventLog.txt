@@ -1,0 +1,38 @@
+Game Started
+
+Player 1 placed a settlement.
+
+Player 1 placed road.
+
+Player 2 placed a settlement.
+
+Player 2 placed road.
+
+Player 3 placed a settlement.
+
+Player 3 placed road.
+
+Player 3 placed a settlement.
+
+Player 3 placed road.
+
+Player 2 placed a settlement.
+
+Player 2 placed road.
+
+Player 1 placed a settlement.
+
+Setup phase finshed.
+
+Player 1 placed road.
+
+A 7 was rolled.
+
+Robber was moved.
+
+A 7 was rolled.
+
+Robber was moved.
+
+Player 3 stole a resource.
+
